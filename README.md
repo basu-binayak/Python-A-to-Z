@@ -1,7 +1,7 @@
 # Python Basics to Advanced
 
 ## Topics coverd are as follows:
-<ul>
+<ol>
   <li>Print statement in Python</li>
-</ul>
+</ol>
 
